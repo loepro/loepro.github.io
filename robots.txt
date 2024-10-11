@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loepro.github.io/okX/sitemap.okX.gz
